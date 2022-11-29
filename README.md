@@ -1,5 +1,9 @@
 # Anurag-Deshmukh_HTML-CSS_Lab
 
+Note: Link1 goes to Create Gmail account. ,,,..
+Link2 goes to graphanimation.
+
+
 1.	Create a Navigation menu bar with dropdown list
 a.	Create header
 b.	Create a nav bar with link 1, link 2, link 3.
